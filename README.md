@@ -5,14 +5,11 @@ Bu proje, Türkçe haber makalelerini **gerçek** veya **sahte** olarak sınıfl
 ## İçindekiler
 1. [Proje Genel Bakış](#proje-genel-bakış)
 2. [Veri Seti](#veri-seti)
-3. [Veri Ön İşleme](#veri-ön-işleme)
-4. [Model Seçimi ve Uygulama](#model-seçimi-ve-uygulama)
-5. [Kod Açıklamaları](#kod-açıklamaları)
-6. [Sonuçlar](#sonuçlar)
-7. [Projeyi Çalıştırma](#projeyi-çalıştırma)
-8. [Geliştirme ve Gelecek Çalışmalar](#geliştirme-ve-gelecek-çalışmalar)
-9. [Bağımlılıklar](#bağımlılıklar)
-10. [Lisans](#lisans)
+2. [Sonuçlar](#sonuçlar)
+3. [Projeyi Çalıştırma](#projeyi-çalıştırma)
+4. [Geliştirme ve Gelecek Çalışmalar](#geliştirme-ve-gelecek-çalışmalar)
+5. [Bağımlılıklar](#bağımlılıklar)
+6. 
 ---
 
 ## Proje Genel Bakış
